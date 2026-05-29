@@ -1,0 +1,27 @@
+
+Presentation Overview
+
+1. Introduction
+- Explain the purpose of the chatbot.
+
+2. GUI
+- Show the Windows Forms interface.
+- Explain the chat window and input controls.
+
+3. Keyword Recognition
+- Demonstrate password, phishing, scam, and privacy responses.
+
+4. Random Responses
+- Show different phishing tips.
+
+5. Memory and Recall
+- Demonstrate remembering user interests.
+
+6. Sentiment Detection
+- Show worried/frustrated responses.
+
+7. Error Handling
+- Demonstrate invalid input handling.
+
+8. Conclusion
+- Explain how the chatbot can be expanded in Part 3.
